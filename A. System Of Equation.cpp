@@ -33,7 +33,7 @@ int main()
     {
         int b = n - a * a;
         if (a + b * b == m)
-        {
+        { 
             answer += 1;
         }
     }
